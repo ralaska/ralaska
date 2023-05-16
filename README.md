@@ -28,8 +28,8 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" width="20" height="20"/> 
  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/>
  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure"  width="20" height="20" />
- <img src="https://img.icons8.com/?size=20&id=laYYF3dV0Iew&format=png" alt="azure"  width="20" height="20" />
- <img src="https://img.icons8.com/?size=20&id=J0SgMWzAxqFj&format=png" alt="azure"  width="20" height="20" />
+ <img src="https://img.icons8.com/?size=48&id=laYYF3dV0Iew&format=png" alt="azure"  width="20" height="20" />
+ <img src="https://img.icons8.com/?size=48&id=J0SgMWzAxqFj&format=png" alt="azure"  width="20" height="20" />
  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"  width="20" height="20" />
  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"  width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/kubernetes.svg" alt="kubernetes"  width="20" height="20" /> 
