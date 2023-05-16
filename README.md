@@ -53,13 +53,17 @@ Here are some ideas to get you started:
    <a href="https://www.linkedin.com/in/ralaska"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" alt="@ralaska" /></a> -->
 </p>
 
-# My public workds
-- 👨‍💻 All of my projects are available [here](https://github.com/ralaska?tab=repositories)
+<!-- # My public workds
+- 👨‍💻 All of my projects are available [here](https://github.com/ralaska?tab=repositories) -->
+ 
+![](https://raw.githubusercontent.com/ralaska/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+ 
+![](https://raw.githubusercontent.com/ralaska/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=ralaska&show_icons=true" alt="ralaska" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralaska&layout=compact" alt="ralaska" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralaska&layout=compact" alt="ralaska" />
+</p> -->
 
 <!-- <p align="center">
   <a href="https://www.ralaska.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="https://www.ralaska.com/" height="32" width="32" /></a>
