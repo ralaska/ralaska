@@ -38,7 +38,8 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="mysql" width="20" height="20" /> 
  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="20" height="20" /> 
  <img src="https://avatars.githubusercontent.com/u/58386951" alt="PyTorch Lightning" width="20" height="20" /> 
- <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="20" height="20" /> 
+ <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="20" height="20" />
+ <imb src="https://avatars.githubusercontent.com/u/34455048" alt="Keras" width="20" height="20" /> 
  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg" alt="apache cassandra" width="20" height="20" /> 
  <img src="https://img.icons8.com/color/64/000000/oracle-logo.png" alt="oracle" width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="jenkins" width="20" height="20" /> 
