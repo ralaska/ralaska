@@ -44,6 +44,7 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="nginx"  width="20" height="20" />
  <img src="https://img.icons8.com/fluent/48/000000/android-os.png" alt="android"  width="20" height="20" />
  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Kafka" width="30" height="20" />
+ <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="30" height="20" />
  <img src="https://img.icons8.com/?size=48&id=20909&format=png" alt="Kafka" width="30" height="20" />
  <img src="https://img.icons8.com/dusk/48/000000/css3.png" alt="css3"  width="20" height="20" />
  <img src="https://img.icons8.com/?size=48&id=QBqFNfPPB2Kx&format=png" alt="css3"  width="20" height="20" />
