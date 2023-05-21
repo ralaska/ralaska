@@ -21,6 +21,7 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="20" height="20"/>
  <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/jquery_logo.svg" alt="jquery" width="20" height="20" />
+ <img src="https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png" alt="Typescript" width="20" height="20" />
  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="20" height="20"/>
  <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/dotnet.svg" alt=".Net" width="20" height="20"/>
  <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" height="20"/>
