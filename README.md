@@ -38,7 +38,7 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/?size=120&id=pHS3eRpynIRQ&format=png" alt="redis" width="20" height="20" /> 
  <img src="https://img.icons8.com/?size=120&id=UFXRpPFebwa2&format=png" alt="mysql" width="20" height="20" /> 
  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="20" height="20" /> 
- <img src="https://ml-explore.github.io/mlx/build/html/_static/mlx_logo_dark.png" alt="MLX" width="40" height="40"/>
+ <img src="https://ml-explore.github.io/mlx/build/html/_static/mlx_logo_dark.png" alt="MLX" width="20" height="20"/>
  <img src="https://avatars.githubusercontent.com/u/58386951" alt="PyTorch Lightning" width="20" height="20" /> 
  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="20" height="20" />
  <imb src="https://avatars.githubusercontent.com/u/34455048" alt="Keras" width="20" height="20" /> 
