@@ -70,14 +70,11 @@
   <img src="https://komarev.com/ghpvc/?username=ralaska" alt="ralaska" />
 </p>
 <p align="center">
-  <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/ralaska/github-stats/master/generated/overview.svg#gh-dark-mode-only" /></td>
-      <td><img src="https://raw.githubusercontent.com/ralaska/github-stats/master/generated/languages.svg#gh-dark-mode-only" /></td>
-    </tr>
-  </table>
+  <div align="center" style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/ralaska/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
+    <img src="https://raw.githubusercontent.com/ralaska/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
+  </div>
 </p>
-
 
 ---
 
