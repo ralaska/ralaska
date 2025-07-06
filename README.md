@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm rAlaska</h1>
 <h3 align="center">Software Engineer • AI Generalist • Systems Architect • Builder</h3>
 
+<p align="center"><i>Code. Automate. Scale. Refine. Repeat.</i></p>
+
+
 ---
 
 <p align="center">
@@ -50,7 +53,7 @@
 - Experienced in architecting end-to-end systems across web, infrastructure, and intelligent automation
 - Specialized in performance-first, multilingual solutions at scale
 - Strong focus on clean code, secure design, and long-term maintainability
-- Building automation for text, speech, and media workflows
+- Building automation systems that bridge language, structure, and media
 - Quietly solving complex problems — with precision
 
 ---
@@ -60,7 +63,7 @@
 - Design and deploy resilient backend systems  
 - Build end-to-end automations from input to insight  
 - Create structured solutions for unstructured data  
-- Architect smart pipelines that scale quietly in the background  
+- Architect quiet, scalable pipelines that just work
 
 ---
 
@@ -68,7 +71,7 @@
 
 - Built AI systems that power intelligent automation, multilingual support, and dynamic content generation  
 - Developed adaptive models that operate reliably across varying data conditions  
-- Built multilingual frameworks to support diverse linguistic and cultural contexts  
+- Engineered multilingual frameworks to support diverse linguistic and cultural contexts
 - Architected end-to-end pipelines with observability, scalability, and fault tolerance  
 - Integrated AI systems seamlessly into distributed cloud-native environments  
 
