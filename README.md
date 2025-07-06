@@ -69,9 +69,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ralaska" alt="ralaska" />
 </p>
-
+<p align="center">
 ![](https://raw.githubusercontent.com/ralaska/github-stats/master/generated/overview.svg#gh-dark-mode-only)  
 ![](https://raw.githubusercontent.com/ralaska/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+</p>
 
 ---
 
