@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm rAlaska</h1>
 <h3 align="center">Software Engineer • AI Generalist • Systems Architect • Builder</h3>
 
-<p align="center"><i>Code. Automate. Scale. Refine. Repeat.</i></p>
-
+<p align="center"><i>💻 Code. 🤖 Automate. 📈 Scale. 🧽 Refine. 🔁 Repeat.</i></p>
 
 ---
 
