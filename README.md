@@ -1,21 +1,8 @@
-<!--
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm rAlaska</h1>
+<h3 align="center">Software Engineer • AI Generalist • Systems Architect • Builder</h3>
 
-**ralaska/ralaska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm rAlaska </h1>
-<h3 align="center">A Software Engineer, AI enthusiast.
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
 <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="20" height="20"/>
@@ -55,28 +42,36 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="elasticsearch" width="20" height="20" />
 <img src="https://img.icons8.com/?size=48&id=viVPreeQBfSH&format=png" alt="elasticsearch" width="20" height="20" />
 </p>
-<p align="center">
 
+---
+
+🧠 **About Me**
+
+- Experienced in architecting end-to-end systems across web, infrastructure, and intelligent automation
+- Specialized in performance-first, multilingual solutions at scale
+- Strong focus on clean code, secure design, and long-term maintainability
+- Building automation for text, speech, and media workflows
+- Quietly solving complex problems — with precision
+
+---
+
+💡 **What I Do**
+
+- Design and deploy resilient backend systems  
+- Build end-to-end automations from input to insight  
+- Create structured solutions for unstructured data  
+- Architect smart pipelines that scale quietly in the background  
+
+---
+
+📈 **GitHub Stats**
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ralaska" alt="ralaska" />
-<!--    <a href="https://twitter.com/intent/follow?screen_name=ralaska"><img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social" alt="@ralaska" /></a>
-  <a href="https://www.linkedin.com/in/ralaska"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" alt="@ralaska" /></a> -->
 </p>
 
-<!-- # My public workds
-- 👨‍💻 All of my projects are available [here](https://github.com/ralaska?tab=repositories) -->
-
-![](https://raw.githubusercontent.com/ralaska/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
+![](https://raw.githubusercontent.com/ralaska/github-stats/master/generated/overview.svg#gh-dark-mode-only)  
 ![](https://raw.githubusercontent.com/ralaska/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-<!-- <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api?username=ralaska&show_icons=true" alt="ralaska" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralaska&layout=compact" alt="ralaska" />
-</p> -->
+---
 
-<!-- <p align="center">
- <a href="https://www.ralaska.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="https://www.ralaska.com/" height="32" width="32" /></a>
-<a href="https://www.linkedin.com/in/ralaska/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/ralaska/" height="32" width="32" /></a>
-<a href="https://twitter.com/intent/follow?screen_name=ralaska" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="https://twitter.com/ralaska" height="32" width="32" /></a>
-
-</p> -->
