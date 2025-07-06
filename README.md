@@ -64,6 +64,16 @@
 
 ---
 
+🤖 **AI Systems & Highlights**
+
+- Built AI systems that power intelligent automation, multilingual support, and dynamic content generation  
+- Developed adaptive models that operate reliably across varying data conditions  
+- Built multilingual frameworks to support diverse linguistic and cultural contexts  
+- Architected end-to-end pipelines with observability, scalability, and fault tolerance  
+- Integrated AI systems seamlessly into distributed cloud-native environments  
+
+---
+
 📈 **GitHub Stats**
 
 <p align="center">
