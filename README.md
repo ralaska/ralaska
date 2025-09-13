@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm rAlaska</h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi 👋, I'm rAlaska&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Hi 👋, I'm rAlaska"></h1>
+
 <h3 align="center">Software Engineer • AI Generalist • Systems Architect • Builder</h3>
 
 <p align="center"><i>💻 Code. 🤖 Automate. 📈 Scale. 🧽 Refine. 🔁 Repeat.</i></p>
