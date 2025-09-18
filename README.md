@@ -1,6 +1,8 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+rAlaska" alt="Hi 👋, I'm rAlaska" /></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4AF626&center=true&vCenter=true&width=600&lines=Howdy+%F0%9F%91%8B%2C+I'm+rAlaska;Software+Engineer+%7C+AI+Generalist;Systems+Architect+%7C+Builder" alt="Howdy 👋, I'm rAlaska" />
+</h1>
 
-<h3 align="center">Software Engineer • AI Generalist • Systems Architect • Builder</h3>
+<h3 align="center">Building quiet, scalable systems that just work 🚀</h3>
 
 <p align="center"><i>💻 Code. 🤖 Automate. 📈 Scale. 🧽 Refine. 🔁 Repeat.</i></p>
 
