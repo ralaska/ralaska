@@ -2,6 +2,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4AF626&center=true&vCenter=true&width=600&lines=Howdy+%F0%9F%91%8B%2C+I'm+rAlaska;Software+Engineer+%7C+AI+Generalist;Systems+Architect+%7C+Builder" alt="Howdy 👋, I'm rAlaska" />
 </h1>
 
+<div align="center">
+<h1 style="color: #d4a056; font-size: 3rem; margin: 0;">
+  <span style="font-size: 1.2em;">ד</span> דָּבָר <span style="color: #f5efe6; font-weight: 400;">· Davar</span>
+</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=d4a056&center=true&vCenter=true&width=600&lines=Word-by-word+Sync+Audio+Bible" alt="Word-by-word Sync Audio Bible" />
+
+<br>
+
+[![Hebrew Old Testament](https://img.shields.io/badge/Hebrew-Old_Testament-d4a056?style=for-the-badge&labelColor=1a1a1a)](https://davar.peplamb.com)
+[![Greek New Testament](https://img.shields.io/badge/Greek-New_Testament-d4a056?style=for-the-badge&labelColor=1a1a1a)](https://davar.peplamb.com)
+[![Transliteration](https://img.shields.io/badge/Transliteration-&_Definitions-d4a056?style=for-the-badge&labelColor=1a1a1a)](https://davar.peplamb.com)
+
+<br>
+
+[<img src="https://img.shields.io/badge/Try_Davar_Free-→-1a1a1a?style=for-the-badge&logoColor=white&labelColor=d4a056" alt="Try Davar Free" height="40">](https://davar.peplamb.com)
+
+</div>
+
 <h3 align="center">Building quiet, scalable systems that just work 🚀</h3>
 
 <p align="center"><i>💻 Code. 🤖 Automate. 📈 Scale. 🧽 Refine. 🔁 Repeat.</i></p>
