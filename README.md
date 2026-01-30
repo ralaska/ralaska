@@ -2,6 +2,220 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4AF626&center=true&vCenter=true&width=600&lines=Howdy+%F0%9F%91%8B%2C+I'm+rAlaska;Software+Engineer+%7C+AI+Generalist;Systems+Architect+%7C+Builder" alt="Howdy 👋, I'm rAlaska" />
 </h1>
 
+<davar-promo>
+  <template shadowrootmode="open">
+    <style>
+      :host {
+        display: block;
+
+        /* Dark mode (default) - matches Davar's dark theme */
+        --davar-bg: #1a1a1a;
+        --davar-accent: #b4874a;
+        --davar-accent-hover: #c9995a;
+        --davar-text: #e8e0d5;
+        --davar-border: rgba(180, 135, 74, 0.3);
+        --davar-shadow: rgba(0, 0, 0, 0.4);
+      }
+
+      /* Light mode - matches Davar's warm cream theme */
+      :host-context([data-bs-theme="light"]) {
+        --davar-bg: #f8f1e9;
+        --davar-accent: #5d4422;
+        --davar-accent-hover: #7a5a2f;
+        --davar-text: #3a2a1d;
+        --davar-border: rgba(93, 68, 34, 0.25);
+        --davar-shadow: rgba(93, 68, 34, 0.15);
+      }
+
+      .davar-promo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 0.5rem;
+        padding: 1.5rem 1rem;
+        margin-block-end: 1rem;
+
+        background: var(--davar-bg);
+        border: 1px solid var(--davar-border);
+        border-radius: 0.5rem;
+        box-shadow: 0 4px 20px var(--davar-shadow);
+
+        text-align: center;
+        animation: fadeInUp 0.4s ease-out;
+      }
+
+      @keyframes fadeInUp {
+        from {
+          opacity: 0;
+          transform: translateY(10px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      .logo {
+        display: flex;
+        align-items: center;
+        gap: 0.25rem;
+        color: var(--davar-accent);
+        font-size: 1.5rem;
+        font-weight: 600;
+        line-height: 1.2;
+      }
+
+      .logo-icon {
+        font-size: 1.5em;
+        font-weight: 700;
+      }
+
+      .logo-hebrew {
+        unicode-bidi: isolate;
+      }
+
+      .logo-latin {
+        font-weight: 400;
+        opacity: 0.85;
+      }
+
+      .tagline {
+        margin: 0;
+        color: var(--davar-text);
+        font-size: 1rem;
+        font-weight: 400;
+      }
+
+      .cta {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.25rem;
+        padding: 0.25rem 1rem;
+        margin-block-start: 0.25rem;
+
+        background: var(--davar-accent);
+        color: var(--davar-bg);
+        border-radius: 0.25rem;
+        font-size: 1rem;
+        font-weight: 600;
+        text-decoration: none;
+
+        transition: background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+      }
+
+      .cta:hover,
+      .cta:focus {
+        background: var(--davar-accent-hover);
+        color: var(--davar-bg);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px var(--davar-shadow);
+        text-decoration: none;
+      }
+
+      .cta:active {
+        transform: translateY(0);
+      }
+
+      .cta:focus {
+        outline: 2px solid var(--davar-accent);
+        outline-offset: 2px;
+      }
+
+      .arrow {
+        transition: transform 0.2s ease;
+      }
+
+      .cta:hover .arrow {
+        transform: translateX(3px);
+      }
+
+      /* Responsive: Extra small screens */
+      @media (max-width: 359px) {
+        .davar-promo {
+          padding: 1rem 0.5rem;
+          gap: 0.25rem;
+        }
+
+        .logo {
+          font-size: 1.25rem;
+        }
+
+        .tagline {
+          font-size: 0.875rem;
+        }
+      }
+
+      /* Ultra compact screens */
+      @media (max-width: 319px) {
+        .logo {
+          flex-direction: column;
+          gap: 2px;
+        }
+
+        .logo-latin {
+          display: block;
+          font-size: 0.75em;
+        }
+      }
+
+      /* Tablet and up */
+      @media (min-width: 768px) {
+        .davar-promo {
+          flex-direction: row;
+          flex-wrap: wrap;
+          justify-content: center;
+          gap: 1rem;
+          padding: 1rem 1.5rem;
+        }
+
+        .tagline {
+          margin: 0;
+        }
+      }
+
+      /* Desktop */
+      @media (min-width: 992px) {
+        .davar-promo {
+          gap: 1.5rem;
+        }
+
+        .logo {
+          font-size: 1.75rem;
+        }
+
+        .tagline {
+          font-size: 1.125rem;
+        }
+      }
+    </style>
+    <article class="davar-promo">
+      <div class="logo">
+        <span class="logo-icon">&#x05D3;</span>
+        <span class="logo-hebrew">&#x05D3;&#x05B8;&#x05BC;&#x05D1;&#x05B8;&#x05E8;</span>
+        <span class="logo-latin">&middot; Davar</span>
+      </div>
+      <p class="tagline">Word-by-word Sync Audio Bible</p>
+      <a href="https://davar.peplamb.com" target="_blank" rel="noopener" class="cta">
+        Try it
+        <span class="arrow">&rarr;</span>
+      </a>
+    </article>
+  </template>
+  <script type="module">
+    if (!('shadowRootMode' in HTMLTemplateElement.prototype)) {
+      const t = document.querySelector('davar-promo template');
+      if (t) {
+        t.parentNode
+          .attachShadow({ mode: t.getAttribute('shadowrootmode') })
+          .appendChild(t.content);
+        t.remove();
+      }
+    }
+  </script>
+</davar-promo>
+
+
 <h3 align="center">Building quiet, scalable systems that just work 🚀</h3>
 
 <p align="center"><i>💻 Code. 🤖 Automate. 📈 Scale. 🧽 Refine. 🔁 Repeat.</i></p>
