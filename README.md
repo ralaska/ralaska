@@ -35,7 +35,6 @@
 <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/java.svg" alt="JAVA" width="20" height="20"/> 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bun.svg" alt="Bun" width="20" height="20" />
-<img src="https://img.icons8.com/color/48/000000/bun.png" alt="bun" width="20" height="20"/> 
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/>
 <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure" width="20" height="20" />
 <img src="https://img.icons8.com/?size=48&id=laYYF3dV0Iew&format=png" alt="sqlserver" width="20" height="20" />
