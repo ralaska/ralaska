@@ -4,7 +4,7 @@
 
 <div align="center">
 <h1 style="color: #d4a056; font-size: 3rem; margin: 0;">
-  <span style="color: #d4a056; font-size: 1.2em;">דָּבָר</span><span style="color: #f5efe6; font-weight: 400;"> · Davar</span>
+  <span style="color: #d4a056; font-size: 1.2em;">דָּבָר<span style="color: #f5efe6; font-weight: 400;"> · Davar</span></span>
 </h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=d4a056&center=true&vCenter=true&width=600&lines=Word-by-word+Sync+Audio+Bible" alt="Word-by-word Sync Audio Bible" />
 
