@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" viewBox="0 0 900 180">
   <defs>
     <!-- Gold gradient -->
     <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
@@ -33,7 +33,7 @@
   </text>
 
   <!-- Dot -->
-  <text x="365" y="118"
+  <text x="360" y="118"
         font-size="84" font-weight="300"
         font-family="Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif"
         fill="#cfc6bb">
@@ -41,7 +41,7 @@
   </text>
 
   <!-- English -->
-  <text x="400" y="120"
+  <text x="390" y="120"
         font-size="88" font-weight="700"
         font-family="Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif"
         fill="#f5efe6">
