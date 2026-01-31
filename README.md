@@ -3,9 +3,7 @@
 </h1>
 
 <div align="center">
-<h1 style="color: #d4a056; font-size: 3rem; margin: 0;">
-
-</h1>
+<img src="assets/davar-wordmark.svg" alt="דָּבָר · Davar" height="48">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=d4a056&center=true&vCenter=true&width=600&lines=Word-by-word+Sync+Audio+Bible" alt="Word-by-word Sync Audio Bible" />
 
 <br>
