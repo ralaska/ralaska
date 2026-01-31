@@ -3,7 +3,9 @@
 </h1>
 
 <div align="center">
-<a href="https://davar.peplamb.com" target="_blank" ><img src="Davar.svg" alt="דָּבָר · Davar" height="300"></a>
+<a href="https://davar.peplamb.com" target="_blank" rel="noopener">
+  <img src="Davar.svg" alt="Davar logo" height="300" width="auto">
+</a>
   <br />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=d4a056&center=true&vCenter=true&width=600&lines=Word-by-word+Sync+Audio+Bible" alt="Word-by-word Sync Audio Bible" />
 
