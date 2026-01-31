@@ -4,7 +4,8 @@
 
 <div align="center">
 <h1 style="color: #d4a056; font-size: 3rem; margin: 0;">
-![Davar](https://img.shields.io/badge/%D7%93%D6%B8%D6%BC%D7%91%D6%B8%D7%A8-Davar-d4a056?style=for-the-badge)
+<span dir="rtl" lang="he" style="color:#d4a056; font-size:1.2em; font-weight:700;">דָּבָר</span>
+<span style="color:#f5efe6; font-weight:400;"> · Davar</span>
 </h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=d4a056&center=true&vCenter=true&width=600&lines=Word-by-word+Sync+Audio+Bible" alt="Word-by-word Sync Audio Bible" />
 
