@@ -24,7 +24,7 @@
   </defs>
 
   <!-- Hebrew -->
-  <text x="350" y="120"
+  <text x="390" y="120"
         direction="rtl" unicode-bidi="bidi-override"
         font-size="96" font-weight="800"
         font-family="Noto Sans Hebrew, SBL Hebrew, Ezra SIL, Arial, sans-serif"
@@ -33,7 +33,7 @@
   </text>
 
   <!-- Dot -->
-  <text x="360" y="118"
+  <text x="400" y="118"
         font-size="84" font-weight="300"
         font-family="Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif"
         fill="#cfc6bb">
@@ -41,7 +41,7 @@
   </text>
 
   <!-- English -->
-  <text x="390" y="120"
+  <text x="430" y="120"
         font-size="88" font-weight="700"
         font-family="Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif"
         fill="#f5efe6">
